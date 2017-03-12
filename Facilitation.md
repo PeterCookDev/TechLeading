@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [Disciplines of Meaningful Meetings (How the Big Guys do it)](https://cleverchecklist.com/blog/thoughts/disciplines-of-meaningful-meetings/)
 
 ## Training Courses and Videos
 

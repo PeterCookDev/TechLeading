@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [Telling a good story is everything](https://medium.com/life-tips/telling-a-good-story-is-everything-5c66abbb23d9#.d1y57kslh)
 
 ## Training Courses and Videos
 
