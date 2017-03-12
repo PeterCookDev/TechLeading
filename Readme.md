@@ -4,6 +4,9 @@ Resources for tech leads and aspiring tech leads.
 
 ## General Resources
 
+### Articles
+- [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)
+
 ### High Level overview
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]

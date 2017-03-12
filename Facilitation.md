@@ -2,7 +2,8 @@
 
 ## Articles
 
-- [Disciplines of Meaningful Meetings (How the Big Guys do it)](https://cleverchecklist.com/blog/thoughts/disciplines-of-meaningful-meetings/)
+- [Jacob King - Disciplines of Meaningful Meetings (How the Big Guys do it)](https://cleverchecklist.com/blog/thoughts/disciplines-of-meaningful-meetings/)
+- [Kate Heddleston - Argument Cultures and Unregulated Aggression](https://kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
 
 ## Training Courses and Videos
 
