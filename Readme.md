@@ -15,3 +15,6 @@ Resources for tech leads and aspiring tech leads.
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
 - [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 - [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+
+### Blogs
+- [Rands in Repose](http://randsinrepose.com/blog/)
