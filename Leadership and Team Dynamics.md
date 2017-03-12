@@ -8,6 +8,7 @@
 - [Boost Productivity Through Employee Happiness](https://app.pluralsight.com/library/courses/boost-productivity-employee-happiness)
 - [Pair Programming](https://app.pluralsight.com/library/courses/pair-programming)
 - [Conflict Resolution in the Workplace](https://app.pluralsight.com/library/courses/conflict-resolution-workplace)
+- [Roy Osherove - The Team Leader Manifesto](https://www.youtube.com/watch?v=_UxzetgOWlE) [1:13:19]
 
 
 ## Books
