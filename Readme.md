@@ -22,6 +22,7 @@ Resources for tech leads and aspiring tech leads.
 ### Blogs
 - [Rands in Repose](http://randsinrepose.com/blog/)
 - [Roy Osherove - 5 Whys](http://5whys.com/)
+- [Patrick Kua](https://www.thekua.com/atwork/)
 
 ## Specific Topics
 
