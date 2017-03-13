@@ -22,3 +22,23 @@ Resources for tech leads and aspiring tech leads.
 ### Blogs
 - [Rands in Repose](http://randsinrepose.com/blog/)
 - [Roy Osherove - 5 Whys](http://5whys.com/)
+
+## Specific Topics
+
+### People Skills
+
+- [Leadership and Team Dynamics](Leadership and Team Dynamics.md)
+- [Communication Skills](Communication.md)
+- [Coaching](Coaching.md)
+- [Interviewing and Hiring](Interviewing and Hiring.md)
+- [Mentoring](Mentoring.md)
+- [Facilitation](Facilitation.md)
+- [Teaching](Teaching.md)
+
+### Technical and Process Skills
+- [Bridging the Gap between Tech and the Business](Bridging the gap.md)
+- [Documentation and Technical Writing](Documentation and Technical Writing.md)
+- [Risk Management](Risk Management.md)
+- [Technical Vision](Technical Vision.md)
+- [Visualising Architecture](Visualising Architecture.md)
+- [Prioritization](Prioritization.md)
