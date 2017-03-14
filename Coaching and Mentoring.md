@@ -1,4 +1,5 @@
-# Tech Leading - Coaching
+# Tech Leading - Coaching and Mentoring
+
 
 ## Articles
 
