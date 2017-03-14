@@ -30,9 +30,8 @@ Resources for tech leads and aspiring tech leads.
 
 - [Leadership and Team Dynamics](Leadership and Team Dynamics.md)
 - [Communication Skills](Communication.md)
-- [Coaching](Coaching.md)
+- [Coaching and Mentoring](Coaching and Mentoring.md)
 - [Interviewing and Hiring](Interviewing and Hiring.md)
-- [Mentoring](Mentoring.md)
 - [Facilitation](Facilitation.md)
 - [Teaching](Teaching.md)
 
