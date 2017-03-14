@@ -28,17 +28,17 @@ Resources for tech leads and aspiring tech leads.
 
 ### People Skills
 
-- [Leadership and Team Dynamics](Leadership and Team Dynamics.md)
+- [Leadership and Team Dynamics](LeadershipAndTeamDynamics.md)
 - [Communication Skills](Communication.md)
-- [Coaching and Mentoring](Coaching and Mentoring.md)
-- [Interviewing and Hiring](Interviewing and Hiring.md)
+- [Coaching and Mentoring](CoachingAndMentoring.md)
+- [Interviewing and Hiring](InterviewingAndHiring.md)
 - [Facilitation](Facilitation.md)
 - [Teaching](Teaching.md)
 
 ### Technical and Process Skills
-- [Bridging the Gap between Tech and the Business](Bridging the gap.md)
-- [Documentation and Technical Writing](Documentation and Technical Writing.md)
-- [Risk Management](Risk Management.md)
-- [Technical Vision](Technical Vision.md)
-- [Visualising Architecture](Visualising Architecture.md)
+- [Bridging the Gap between Tech and the Business](BridgingTheGap.md)
+- [Documentation and Technical Writing](DocumentationAndTechnicalWriting.md)
+- [Risk Management](RiskManagement.md)
+- [Technical Vision](TechnicalVision.md)
+- [Visualising Architecture](VisualisingArchitecture.md)
 - [Prioritization](Prioritization.md)
