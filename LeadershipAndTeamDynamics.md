@@ -9,6 +9,9 @@
 - [Pair Programming](https://app.pluralsight.com/library/courses/pair-programming)
 - [Conflict Resolution in the Workplace](https://app.pluralsight.com/library/courses/conflict-resolution-workplace)
 - [Roy Osherove - The Team Leader Manifesto](https://www.youtube.com/watch?v=_UxzetgOWlE) [1:13:19]
+- [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
+- [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
+- [Simon Sinek - How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  [18:04]
 
 
 ## Books

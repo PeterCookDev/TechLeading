@@ -6,6 +6,7 @@ Resources for tech leads and aspiring tech leads.
 
 ### Articles
 - [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)
+- [HackerNews - How to be a Good Technical Lead](https://news.ycombinator.com/item?id=10395046)
 
 ### High Level overview
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
@@ -31,7 +32,7 @@ Resources for tech leads and aspiring tech leads.
 - [Leadership and Team Dynamics](LeadershipAndTeamDynamics.md)
 - [Communication Skills](Communication.md)
 - [Coaching and Mentoring](CoachingAndMentoring.md)
-- [Interviewing and Hiring](InterviewingAndHiring.md)
+- [Interviewing, Hiring and Onboarding](InterviewingAndHiring.md)
 - [Facilitation](Facilitation.md)
 - [Teaching](Teaching.md)
 
