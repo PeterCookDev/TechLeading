@@ -12,6 +12,7 @@
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
 - [Simon Sinek - How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)  [18:04]
+- [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 
 
 ## Books
