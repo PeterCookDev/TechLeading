@@ -12,6 +12,7 @@
 - [Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener)
 - [Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
 - [The Art of Speaking: Scott Hanselman](https://app.pluralsight.com/library/courses/hanselman-speaking)
+- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 
 ## Books
 

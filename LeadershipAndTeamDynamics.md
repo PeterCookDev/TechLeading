@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [Chad Fowler - Your most important skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html)
 
 ## Training Courses and Videos
 
@@ -16,6 +17,7 @@
 
 
 ## Books
+
 - [Debugging Teams: Better Productivity through Collaboration by Brian W. Fitzpatrick, Ben Collins-Sussman](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058)
 - [Management 3.0: Leading Agile Developers, Developing Agile Leaders by Jurgen Appelo ](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471)
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
