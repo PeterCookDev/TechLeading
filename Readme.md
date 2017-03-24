@@ -2,7 +2,11 @@
 
 Resources for tech leads and aspiring tech leads.
 
-## General Resources
+**Accepting PRs**
+Feel free to add topics I've missed.
+
+## What is a tech lead?
+Different companies have differing definitions of what the tech lead role looks like. Some have tech leads also as team leads, managing the people in the team. Some companies have them as architects driving the architecture and the practices but not managing the team.  Others have them as neither people managers nor architects but as the person in the team with the responsibility to ship the product, grow the team members and facilitating in the decision making process.  However you or your company views the role, the resources below should help you learn some skills that will help you perform the role.
 
 ### Articles
 - [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)
