@@ -36,17 +36,17 @@ Different companies have differing definitions of what the tech lead role looks 
 
 ### People Skills
 
-- [Leadership and Team Dynamics](LeadershipAndTeamDynamics.md)
-- [Communication Skills](Communication.md)
-- [Coaching and Mentoring](CoachingAndMentoring.md)
-- [Interviewing, Hiring and Onboarding](InterviewingAndHiring.md)
-- [Facilitation](Facilitation.md)
-- [Teaching](Teaching.md)
+- [Leadership and Team Dynamics](topics/LeadershipAndTeamDynamics.md)
+- [Communication Skills](topics/Communication.md)
+- [Coaching and Mentoring](topics/CoachingAndMentoring.md)
+- [Interviewing, Hiring and Onboarding](topics/InterviewingAndHiring.md)
+- [Facilitation](topics/Facilitation.md)
+- [Teaching](topics/Teaching.md)
 
 ### Technical and Process Skills
-- [Bridging the Gap between Tech and the Business](BridgingTheGap.md)
-- [Documentation and Technical Writing](DocumentationAndTechnicalWriting.md)
-- [Risk Management](RiskManagement.md)
-- [Technical Vision](TechnicalVision.md)
-- [Visualising Architecture](VisualisingArchitecture.md)
-- [Prioritization](Prioritization.md)
+- [Bridging the Gap between Tech and the Business](topics/BridgingTheGap.md)
+- [Documentation and Technical Writing](topics/DocumentationAndTechnicalWriting.md)
+- [Risk Management](topics/RiskManagement.md)
+- [Technical Vision](topics/TechnicalVision.md)
+- [Visualising Architecture](topics/VisualisingArchitecture.md)
+- [Prioritization](topics/Prioritization.md)
