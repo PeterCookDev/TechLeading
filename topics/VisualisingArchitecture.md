@@ -2,6 +2,7 @@
 
 ## Articles
 
+- [Dan Abel - How to Grow Architecture & Infrastructure (Be a Well Rounded Technical Lead, part 2)](http://www.engineeringandcareering.co.uk/2013/12/wellrounded-architecture-infrastructure.html)
 
 ## Training Courses and Videos
 

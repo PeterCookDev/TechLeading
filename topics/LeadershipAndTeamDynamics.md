@@ -3,6 +3,7 @@
 ## Articles
 
 - [Chad Fowler - Your most important skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html)
+- [Dan Abel - How to Engage with your team (be a Well Rounded Technical Lead, part 1)](http://www.engineeringandcareering.co.uk/2013/10/how-to-be-well-rounded-technical-lead_20.html)
 
 ## Training Courses and Videos
 
