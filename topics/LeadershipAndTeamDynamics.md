@@ -27,3 +27,7 @@
 - [Atlassian - Team Playbook](https://www.atlassian.com/team-playbook)
 
 ## Twitter Feeds to Follow
+
+- [Simon Sinek - @simonsinek](https://twitter.com/simonsinek)
+- [David Marquet - @davidmarquet](https://twitter.com/ldavidmarquet)
+- [Brené Brown - @brenebrown](https://twitter.com/BreneBrown)

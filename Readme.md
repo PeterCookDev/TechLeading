@@ -32,6 +32,11 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Roy Osherove - 5 Whys](http://5whys.com/)
 - [Patrick Kua](https://www.thekua.com/atwork/)
 
+### Twitter Feeds to Follow
+
+- [Patrick Kua - @patkua](https://twitter.com/patkua)
+- [Camille Fournier - @skamille](https://twitter.com/skamille)
+
 ## Specific Topics
 
 ### People Skills
@@ -50,3 +55,4 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Technical Vision](topics/TechnicalVision.md)
 - [Visualising Architecture](topics/VisualisingArchitecture.md)
 - [Prioritization](topics/Prioritization.md)
+
