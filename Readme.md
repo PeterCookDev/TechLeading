@@ -33,9 +33,12 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Patrick Kua](https://www.thekua.com/atwork/)
 
 ### Twitter Feeds to Follow
-
 - [Patrick Kua - @patkua](https://twitter.com/patkua)
 - [Camille Fournier - @skamille](https://twitter.com/skamille)
+
+### Conferences
+- [The Lead Developer - London](http://www.theleaddeveloper.com/)
+- [The Lead Developer - NY](http://theleaddeveloper-ny.com/)
 
 ## Specific Topics
 
@@ -55,4 +58,3 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Technical Vision](topics/TechnicalVision.md)
 - [Visualising Architecture](topics/VisualisingArchitecture.md)
 - [Prioritization](topics/Prioritization.md)
-

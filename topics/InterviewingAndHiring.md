@@ -24,7 +24,8 @@
 ### Articles
 
 - [Kate Heddleston - Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
-- [Patrick Kua on Onboarding Strategies](https://www.thekua.com/atwork/category/onboarding-strategies/)
+- [Patrick Kua - Onboarding Strategies](https://www.thekua.com/atwork/category/onboarding-strategies/)
+- [Jeff Dwyer - Onboarding Engineers: How to Tackle the First 30 Days](http://product.hubspot.com/blog/onboarding-engineers-how-to-tackle-the-first-30-days)
 
 ### Training Courses and Videos
 
