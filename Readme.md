@@ -35,6 +35,8 @@ Different companies have differing definitions of what the tech lead role looks 
 ### Twitter Feeds to Follow
 - [Patrick Kua - @patkua](https://twitter.com/patkua)
 - [Camille Fournier - @skamille](https://twitter.com/skamille)
+- [Dan North - @tastapod](https://twitter.com/tastapod)
+
 
 ### Conferences
 - [The Lead Developer - London](http://www.theleaddeveloper.com/)
