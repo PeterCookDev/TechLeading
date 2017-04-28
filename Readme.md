@@ -60,3 +60,6 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Technical Vision](topics/TechnicalVision.md)
 - [Visualising Architecture](topics/VisualisingArchitecture.md)
 - [Prioritization](topics/Prioritization.md)
+
+### Important Resources
+- [Gifs](https://giphy.com/)
