@@ -24,6 +24,7 @@
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575)
 - [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 - [Drive: The surprising truth about what motivates us by Daniel Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+- [Tribes - We Need You to Lead Us by Seth Godin](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66)
 
 ## Resources
 - [Atlassian - Team Playbook](https://www.atlassian.com/team-playbook)

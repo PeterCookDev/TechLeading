@@ -11,6 +11,7 @@
 - [Joe Mastey - Hiring Developers, with Science!](https://www.youtube.com/watch?v=ZCGGMxcJMZk) [32:31]
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
+- [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
 
 ### Books
 
