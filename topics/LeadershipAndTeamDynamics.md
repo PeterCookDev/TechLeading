@@ -1,5 +1,7 @@
 # Tech Leading - Leadership and Team Dynamics
 
+- [Awesome - Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
+
 ## Articles
 
 - [Chad Fowler - Your most important skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html)
