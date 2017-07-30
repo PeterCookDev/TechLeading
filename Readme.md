@@ -62,3 +62,7 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Visualising Architecture](topics/VisualisingArchitecture.md)
 - [Prioritization](topics/Prioritization.md)
 - [Estimation and Project Management](topics/EstimationAndProjectManagement.md)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
