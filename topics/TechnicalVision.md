@@ -8,6 +8,9 @@
 
 ## Books
 
-- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
 
 ## Twitter Feeds to Follow
+
+
+💲 - *paid for content*
