@@ -24,8 +24,8 @@ Different companies have differing definitions of what the tech lead role looks 
 ### Book Recommendations
 - [Management 3.0: Leading Agile Developers, Developing Agile Leaders by Jurgen Appelo ](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
-- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau] 💲(https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
-- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni] 💲(https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau] (https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)💲
+- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
 - [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
 
 ### Blogs
