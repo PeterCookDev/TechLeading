@@ -20,6 +20,7 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 - [Patrick Kua - The Geek's Guide to Leading Teams](https://www.youtube.com/watch?v=0PsGgnQc4eY0) [1:01:01]
 - [Pat Kua - Becoming a Tech Lead](https://www.youtube.com/watch?v=qGctxiV8d1U) [16:47]
+- [Eryn O'Neil - Congrats! You're the Tech Lead. Now What?](https://www.youtube.com/watch?v=FcyD85z3JSI) [32:18]
 
 ### Book Recommendations
 - [Management 3.0: Leading Agile Developers, Developing Agile Leaders by Jurgen Appelo ](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
