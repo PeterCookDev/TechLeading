@@ -10,6 +10,7 @@
 Takeaway: Good set of guidelines for technical mentoring - respect their space, build confidence, how to manage frustrations and thinking tools you can use to help explain technical concepts (amongst others). 
 
 - [Meredith Noble - Use coaching techniques to help people make their own decisions](https://vimeo.com/128634479)  [22:33]
+Takeaway: Giving advice can be problematic when you don't have enough context. Coaching is about asking powerful questions to help people reach their own decisions rather than giving advice.  People are more likely to act on ideas they came up with themselves.
 
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 
