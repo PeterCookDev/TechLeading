@@ -25,7 +25,7 @@
 
 ## Training Courses and Videos
 
-- [Pluralsight - The Art of Speaking: Scott Hanselman](https://app.pluralsight.com/library/courses/hanselman-speaking) 💲
+- [Scott Hanselman - Pluralsight - The Art of Speaking](https://app.pluralsight.com/library/courses/hanselman-speaking) 💲
 
 
 💲 - *paid for content*
