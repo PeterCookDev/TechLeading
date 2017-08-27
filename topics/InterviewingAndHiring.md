@@ -16,6 +16,7 @@ Takeaway: Validity - tests a known construct.  Reliability - how closely grouped
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
+Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
 
 ### Books
 
