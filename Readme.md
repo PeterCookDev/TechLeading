@@ -23,11 +23,11 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Eryn O'Neil - Congrats! You're the Tech Lead. Now What?](https://www.youtube.com/watch?v=FcyD85z3JSI) [32:18]
 
 ### Book Recommendations
-- [Management 3.0: Leading Agile Developers, Developing Agile Leaders by Jurgen Appelo ](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
-- [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
-- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact by Edmond Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) 💲
-- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
-- [The Manager's Path - Camille Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
+- [Jurgen Appelo - Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
+- [Michael Lopp - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
+- [Edmond Lau - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) 💲
+- [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
+- [Camille Fournier - The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
 
 ### Blogs
 - [Rands in Repose](http://randsinrepose.com/blog/)
