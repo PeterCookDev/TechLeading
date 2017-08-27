@@ -6,9 +6,10 @@
 ## Training Courses and Videos
 
 - [Birgitta Boeckeler - We're Agile, We Don't Do Documentation](https://www.youtube.com/watch?v=UvI3zlv5oUA) [26:03]
-Takeaway : Explains some of the reasons that documentation can be valuable, what to keep up to date and why its OK for not all documentation to be up to date. 
+Takeaway: Explains some of the reasons that documentation can be valuable, what to keep up to date and why its OK for not all documentation to be up to date. 
 
 - [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
+Takeaway: A lot of documentation is written at the level of the writer not the intended audience. Teach - don't tell. Add really short examples, get them to the success moment as early as possibly.
 
 ## Books
 
