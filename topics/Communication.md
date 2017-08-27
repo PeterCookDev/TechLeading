@@ -9,8 +9,8 @@
 
 ## Training Courses and Videos
 
-- [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener) 💲
-- [Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) 💲
+- [Jason Alba - Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener) 💲
+- [Paul Randal - Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) 💲
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 
 ## Books
