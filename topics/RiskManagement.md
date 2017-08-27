@@ -8,7 +8,7 @@
 
 
 ## Books
-
+- [The Checklist Manifesto: How to Get Things Right by Atul Gawande](https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149)
 
 ## Twitter Feeds to Follow
 
