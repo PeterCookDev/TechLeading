@@ -10,7 +10,10 @@
 ## Training Courses and Videos
 
 - [Stephen Haunts - Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings) 💲
+
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448) [25:29]
+Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders.  
+
 
 ## Books
 
