@@ -9,7 +9,7 @@
 
 ## Training Courses and Videos
 
-- [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings) 💲
+- [Stephen Haunts - Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings) 💲
 - [Tomek Kaczanowski - Problem-solving techniques for groups](https://vimeo.com/126778448) [25:29]
 
 ## Books

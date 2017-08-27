@@ -9,9 +9,9 @@
 
 ## Training Courses and Videos
 
-- [Pluralsight - Boost Productivity Through Employee Happiness](https://app.pluralsight.com/library/courses/boost-productivity-employee-happiness) 💲
-- [Pluralsight - Pair Programming](https://app.pluralsight.com/library/courses/pair-programming) 💲
-- [Pluralsight - Conflict Resolution in the Workplace](https://app.pluralsight.com/library/courses/conflict-resolution-workplace) 💲
+- [Kylie Hunt - Pluralsight - Boost Productivity Through Employee Happiness](https://app.pluralsight.com/library/courses/boost-productivity-employee-happiness) 💲
+- [Brendan Enrick and Steve Smith - Pluralsight - Pair Programming](https://app.pluralsight.com/library/courses/pair-programming) 💲
+- [Stephen Haunts - Pluralsight - Conflict Resolution in the Workplace](https://app.pluralsight.com/library/courses/conflict-resolution-workplace) 💲
 - [Roy Osherove - The Team Leader Manifesto](https://www.youtube.com/watch?v=_UxzetgOWlE) [1:13:19]
 - [Simon Sinek - If You Don't Understand People, You Don't Understand Business](https://vimeo.com/26774102)  [30:40]
 - [Simon Sinek - Why Leaders Eat Last](https://vimeo.com/79899786)  [45:50]
@@ -21,12 +21,12 @@
 
 ## Books
 
-- [Debugging Teams: Better Productivity through Collaboration by Brian W. Fitzpatrick, Ben Collins-Sussman](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058) 💲
-- [Management 3.0: Leading Agile Developers, Developing Agile Leaders by Jurgen Appelo ](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
-- [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
-- [The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
-- [Drive: The surprising truth about what motivates us by Daniel Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) 💲
-- [Tribes - We Need You to Lead Us by Seth Godin](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66) 💲
+- [Brian W. Fitzpatrick, Ben Collins-Sussman - Debugging Teams: Better Productivity through Collaboration](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058) 💲
+- [Jurgen Appelo - Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
+- [Michael Lopp - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
+- [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
+- [Daniel Pink - Drive: The surprising truth about what motivates us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) 💲
+- [Seth Godin - Tribes - We Need You to Lead Us](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66) 💲
 
 ## Resources
 - [Atlassian - Team Playbook](https://www.atlassian.com/team-playbook)
