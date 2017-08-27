@@ -13,6 +13,7 @@ Takeaway: Good set of guidelines for technical mentoring - respect their space, 
 Takeaway: Giving advice can be problematic when you don't have enough context. Coaching is about asking powerful questions to help people reach their own decisions rather than giving advice.  People are more likely to act on ideas they came up with themselves.
 
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
+Takeaway: Make sure people have the time to mentor. Set clear expectations. Don't give feedback when people are in crisis. Understand how people take feedback.
 
 ## Books
 - [Michael Bungary Stanier - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.co.uk/gp/aw/d/B01BUIBBZI?qid=1464648063&sr=8-1-fkmr0) 💲
