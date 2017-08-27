@@ -7,6 +7,7 @@
 ## Training Courses and Videos
 
 - [Simon Brown - Visualise, Document & Explore your Software Architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) [38:17]
+Takeaway: C4 approach to visualising architecture.  Documentation often doesn't explain intent or why we do things.  Writing architecture documentation as a guide book - what to look at, maps, culture, history, what is important to understand.
 
 ## Books
 
