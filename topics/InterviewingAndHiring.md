@@ -9,8 +9,12 @@
 ### Training Courses and Videos
 
 - [Joe Mastey - Hiring Developers, with Science!](https://www.youtube.com/watch?v=ZCGGMxcJMZk) [32:31]
+Takeaway: Validity - tests a known construct.  Reliability - how closely grouped results are.  Usability - how easy it is to use. You can only have 2 of them.  Test your interviews on your existing team. Have a scoring rubric for the interview to minimise variance and bias. Don't debrief as a group until you have written down feedback.  Interviewers will come to the same conclusion so they don't look stupid.  Share all feedback at once. 
+
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
+
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
+
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
 
 ### Books
