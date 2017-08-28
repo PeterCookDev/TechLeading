@@ -9,6 +9,10 @@
 - [Phin Barnes - 23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
 
 - [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/)
+Takeaway: Best managers are great teachers, ask questions to help people reach their own answers. Use different types of questions. Questions that give you perspective. Questions that help you evaluate. Questions that lead to action. Questions that lead to knowledge.
+
+- [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
+Takeaway: Make it about the other person. Take notes. Use active listening techniques.
 
 ## Training Courses and Videos
 
