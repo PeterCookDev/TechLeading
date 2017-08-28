@@ -20,6 +20,7 @@ Takeaway: Keep people moving in the same direction.  Understand impact vs influe
 - [Pat Kua - Becoming a Tech Lead](https://www.youtube.com/watch?v=qGctxiV8d1U) [16:47]
 
 - [Eryn O'Neil - Congrats! You're the Tech Lead. Now What?](https://www.youtube.com/watch?v=FcyD85z3JSI) [32:18]
+Takeaway: Facilitate others by helping others do their jobs. Advocate to get things done right. Motivate to get things done without having or using authority.
 
 ## Book Recommendations
 
