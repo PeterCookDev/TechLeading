@@ -30,7 +30,10 @@ Takeaway: In a power based situation, the quality of the relationship is owned b
 ### Articles
 
 - [Kate Heddleston - Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
+
 - [Patrick Kua - Onboarding Strategies](https://www.thekua.com/atwork/category/onboarding-strategies/)
+Takeaway: Good series of strategies for onboarding new team members.  Maintaining a list of technical debt that is shared with new team members.  Catalogues of patterns in use.  Preparation email of tech stack, tools, patterns etc.
+
 - [Jeff Dwyer - Onboarding Engineers: How to Tackle the First 30 Days](http://product.hubspot.com/blog/onboarding-engineers-how-to-tackle-the-first-30-days)
 
 ### Training Courses and Videos
