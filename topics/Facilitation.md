@@ -3,9 +3,13 @@
 ## Articles
 
 - [Jacob King - Disciplines of Meaningful Meetings (How the Big Guys do it)](https://cleverchecklist.com/blog/thoughts/disciplines-of-meaningful-meetings/)
+
 - [Kate Heddleston - Argument Cultures and Unregulated Aggression](https://kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
+
 - [Kate Matsudaira - How to Run an Effective Meeting](http://katemats.com/how-to-run-an-effective-meeting/)
+
 - [Kate Matsudaira - Handling Technical Disagreements with Finesse](http://katemats.com/handling-technical-disagreements-with-finesse/)
+Takeaway: Rarely one right answer to the problem. Don't be defensive. Make your opposer feel heard by repeating back their proposal with the good points about it. Focus on the pros, cons and risks of the solutions – not the solutions themselves.
 
 ## Training Courses and Videos
 
