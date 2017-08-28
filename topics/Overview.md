@@ -11,6 +11,7 @@
 ## Training Courses and Videos
 
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
+Takeaway: Keep people moving in the same direction.  Understand impact vs influence.  Give people the skills to implement your vision. The type of leadership people need depends on where they are.
 
 - [Laura Paterson and Patrick Kua - Technical Leadership](https://www.youtube.com/watch?v=k_nti-mk5IY) [36:25]
 
