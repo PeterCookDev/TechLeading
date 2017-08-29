@@ -29,6 +29,7 @@ Takeaway: Facilitate others by helping others do their jobs. Advocate to get thi
 - [Michael Lopp - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
 
 - [Edmond Lau - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) 💲
+Takeaway: Focus your effort where the impact produced, divided by time invested, is the highest - high leverage activities. Measure what you want to improve. Validate your hypotheses early and often. Invest in your onboarding.
 
 - [Camille Fournier - The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
 
