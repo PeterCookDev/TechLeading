@@ -25,9 +25,11 @@ Takeaway: Facilitate others by helping others do their jobs. Advocate to get thi
 ## Book Recommendations
 
 - [Jurgen Appelo - Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
+
 - [Michael Lopp - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
+
 - [Edmond Lau - The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) 💲
-- [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
+
 - [Camille Fournier - The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) 💲
 
 ## Blogs

@@ -30,10 +30,16 @@
 ## Books
 
 - [Brian W. Fitzpatrick, Ben Collins-Sussman - Debugging Teams: Better Productivity through Collaboration](https://www.amazon.com/Debugging-Teams-Productivity-through-Collaboration/dp/1491932058) 💲
+
 - [Jurgen Appelo - Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) 💲
+
 - [Michael Lopp - Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) 💲
+
 - [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) 💲
+Takeaway: Absence of trust - hesistate to offer help. Fear of conflict - no healthy conflict. Lack of commitment. Avoidance of accountability - encourages mediocrity. Inattention to results  - personal success over team.
+
 - [Daniel Pink - Drive: The surprising truth about what motivates us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) 💲
+
 - [Seth Godin - Tribes - We Need You to Lead Us](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66) 💲
 
 ## Resources
