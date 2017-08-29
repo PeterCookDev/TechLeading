@@ -12,6 +12,7 @@
 ## Books
 
 - [Atul Gawande - The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149) 💲
+- Takeaway: The use of checklists dramatically raises effectiveness and reduces errors. Checklists establish a higher standard of baseline performance. In the end, a checklist is only an aid. If it doesn’t aid, it’s not right. Concise, clear and collaborative. They are living processes and change over time.
 
 ## Twitter Feeds to Follow
 
