@@ -12,6 +12,7 @@
 Takeaway: Validity - tests a known construct.  Reliability - how closely grouped results are.  Usability - how easy it is to use. You can only have 2 of them.  Test your interviews on your existing team. Have a scoring rubric for the interview to minimise variance and bias. Don't debrief as a group until you have written down feedback.  Interviewers will come to the same conclusion so they don't look stupid.  Share all feedback at once. 
 
 - [Sam Barnes - People are Weird, I’m Weird](https://vimeo.com/139910836)[29:34]
+Takeaway: Don't lie to candidates. Find out what they don't like and be honest if that is the environment you have.
 
 - [Iwan Gulenko - How to make IT-recruiting suck less. ](https://www.youtube.com/watch?v=u6PTaTDHUG4) [53:11]
 
