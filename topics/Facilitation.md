@@ -5,6 +5,7 @@
 - [Jacob King - Disciplines of Meaningful Meetings (How the Big Guys do it)](https://cleverchecklist.com/blog/thoughts/disciplines-of-meaningful-meetings/)
 
 - [Kate Heddleston - Argument Cultures and Unregulated Aggression](https://kateheddleston.com/blog/argument-cultures-and-unregulated-aggression)
+Takeaway: Dominance is more concerned with winning than with truth. People make decisions from a place of emotion rather than logic (our brains are not rational or logical).  Understand when the idea is to expand ideas and when the goal is to narrow them down. Have a process in place to prevent unnecessary arguing.  Have people argue for ideas they didn't suggest.
 
 - [Kate Matsudaira - How to Run an Effective Meeting](http://katemats.com/how-to-run-an-effective-meeting/)
 
