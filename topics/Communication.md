@@ -17,6 +17,9 @@ Takeaway: Make it about the other person. Take notes. Use active listening techn
 
 ## Training Courses and Videos
 
+- [Alan Ackmann - Pluralsight - Being a Better Communicator: Grammar, De-jargoning, and Articulation](https://app.pluralsight.com/library/courses/being-better-communicator-grammar-dejargoning-articulation)
+Takeaway: When communicating with non-technical experts remember they are experts in something else. Avoid jargon when talking with non-technical experts. Aim for clarity, conciseness and comprehensiveness in written communication.
+
 - [Jason Alba - Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener) 💲
 
 - [Paul Randal - Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) 💲
