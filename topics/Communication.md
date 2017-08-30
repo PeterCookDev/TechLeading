@@ -5,6 +5,7 @@
 - [Jason Toff - Telling a good story is everything](https://medium.com/life-tips/telling-a-good-story-is-everything-5c66abbb23d9#.d1y57kslh)
 
 - [Kate Heddleston - Criticism and Ineffective Feedback](https://kateheddleston.com/blog/criticism-and-ineffective-feedback)
+Takeaway: Critical feedback finds something wrong with the person without giving them feedback on how to fix the behaviour. Tell people how to be successful, not how they are currently failing.
 
 - [Phin Barnes - 23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
 
