@@ -9,6 +9,7 @@ Takeaway: Have a compelling story. Repeat it over and over again. Appreciation i
 Takeaway: Critical feedback finds something wrong with the person without giving them feedback on how to fix the behaviour. Tell people how to be successful, not how they are currently failing.
 
 - [Phin Barnes - 23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
+Takeaway: Remind people that you are there to maximize their potential as you already know they are smart and talented. Shorten the feedback loop - check in regularly to catch them doing something right.
 
 - [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/)
 Takeaway: Best managers are great teachers, ask questions to help people reach their own answers. Use different types of questions. Questions that give you perspective. Questions that help you evaluate. Questions that lead to action. Questions that lead to knowledge.
