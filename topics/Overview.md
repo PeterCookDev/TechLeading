@@ -3,9 +3,14 @@
 ## Articles
 
 - [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)
+
 - [HackerNews - How to be a Good Technical Lead](https://news.ycombinator.com/item?id=10395046)
+
 - [David Morgantini - Anatomy of a Great Tech Lead](https://davidmorgantini.blogspot.com.au/2012/03/anatomy-of-great-tech-lead.html)
+Takeaway: Focus on leadership, communication and technical skills.
+
 - [Sam Newman - A Tech Lead Manifesto](https://blog.magpiebrain.com/2006/09/12/a-tech-lead-manifesto/)
+
 - [David Byttow - Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771#.gie0limbr)
 
 ## Training Courses and Videos
