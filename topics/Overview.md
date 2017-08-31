@@ -13,6 +13,7 @@ Takeaway: Focus on leadership, communication and technical skills.
 Takeaway: List of behaviours to perform and others to avoid to be a successful team lead. 
 
 - [David Byttow - Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771#.gie0limbr)
+Takeaway: Work on knowledge, speed and awareness. Block and unblocking. List of activities many tech leads do.
 
 ## Training Courses and Videos
 
