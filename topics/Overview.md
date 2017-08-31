@@ -45,6 +45,9 @@ Takeaway: Focus your effort where the impact produced, divided by time invested,
 - [Camille Fournier - @skamille](https://twitter.com/skamille)
 - [Dan North - @tastapod](https://twitter.com/tastapod)
 
+## Newsletters
+
+- [Software Lead Weekly](http://softwareleadweekly.com/)
 
 ## Conferences
 
