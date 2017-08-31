@@ -10,6 +10,7 @@
 Takeaway: Focus on leadership, communication and technical skills.
 
 - [Sam Newman - A Tech Lead Manifesto](https://blog.magpiebrain.com/2006/09/12/a-tech-lead-manifesto/)
+Takeaway: List of behaviours to perform and others to avoid to be a successful team lead. 
 
 - [David Byttow - Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771#.gie0limbr)
 
