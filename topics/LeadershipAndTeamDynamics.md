@@ -5,10 +5,10 @@
 ## Articles
 
 - [Chad Fowler - Your most important skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html)
-- Takeaway: Listen to what you are hearing. Watch and wonder about other people. Know your enemies - try to understand people you have disputes with.
+Takeaway: Listen to what you are hearing. Watch and wonder about other people. Know your enemies - try to understand people you have disputes with.
 
 - [Dan Abel - How to Engage with your team (be a Well Rounded Technical Lead, part 1)](http://www.engineeringandcareering.co.uk/2013/10/how-to-be-well-rounded-technical-lead_20.html)
-- Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people need to feel safe and trust each other. Faciliate the technical discussions. Teams need a clear goal and direction to move forward as a group. Ensure the team doesn't silo - rotate people around jobs, collaborate heavily. Demonstrate how you want the team to behave - but also allow experienced teams to set their own contract.
+Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people need to feel safe and trust each other. Faciliate the technical discussions. Teams need a clear goal and direction to move forward as a group. Ensure the team doesn't silo - rotate people around jobs, collaborate heavily. Demonstrate how you want the team to behave - but also allow experienced teams to set their own contract.
 
 ## Training Courses and Videos
 
