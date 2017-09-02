@@ -8,6 +8,8 @@
 Takeaway: Dominance is more concerned with winning than with truth. People make decisions from a place of emotion rather than logic (our brains are not rational or logical).  Understand when the idea is to expand ideas and when the goal is to narrow them down. Have a process in place to prevent unnecessary arguing.  Have people argue for ideas they didn't suggest.
 
 - [Kate Matsudaira - How to Run an Effective Meeting](http://katemats.com/how-to-run-an-effective-meeting/)
+Takeaway: Set goals for the meeting - defined outcomes. Have someone else take the notes. Track key conclusions and get the note taker to read them out at the end to make sure none were missed.
+
 
 - [Kate Matsudaira - Handling Technical Disagreements with Finesse](http://katemats.com/handling-technical-disagreements-with-finesse/)
 Takeaway: Rarely one right answer to the problem. Don't be defensive. Make your opposer feel heard by repeating back their proposal with the good points about it. Focus on the pros, cons and risks of the solutions – not the solutions themselves.
