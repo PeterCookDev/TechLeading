@@ -31,6 +31,7 @@ Takeaway: In a power based situation, the quality of the relationship is owned b
 ### Articles
 
 - [Kate Heddleston - Onboarding and the Cost of Team Debt](https://kateheddleston.com/blog/onboarding-and-the-cost-of-team-debt)
+Takeaway: Each person who is not fully onboarded, integrated or managed leads to team debt. If team debt gets too high, then the team may need to stop work to get properly trained. Onboarding is finished when reliable independence is achieved. Reiterating processes when someone new joins helps realign existing members as well as new ones.
 
 - [Patrick Kua - Onboarding Strategies](https://www.thekua.com/atwork/category/onboarding-strategies/)
 Takeaway: Good series of strategies for onboarding new team members.  Maintaining a list of technical debt that is shared with new team members.  Catalogues of patterns in use.  Preparation email of tech stack, tools, patterns etc.
