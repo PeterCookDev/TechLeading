@@ -5,6 +5,8 @@
 
 ## Training Courses and Videos
 
+- [Stephen Forte - Pluralsight - Agile Estimation](https://app.pluralsight.com/library/courses/agile-estimation/table-of-contents) 💲
+Takeaway: Re-estimate the project as you learn more about the work. Cone of uncertainty. Use of metrics to create better estimates of project progress. Allocating a percentage of sprint velocity to fixing bugs and doing rework.
 
 ## Books
 
