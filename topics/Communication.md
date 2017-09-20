@@ -17,6 +17,8 @@ Takeaway: Best managers are great teachers, ask questions to help people reach t
 - [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
 Takeaway: Make it about the other person. Take notes. Use active listening techniques.
 
+- [Derek Parham - Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/)
+
 ## Training Courses and Videos
 
 - [Alan Ackmann - Pluralsight - Being a Better Communicator: Grammar, De-jargoning, and Articulation](https://app.pluralsight.com/library/courses/being-better-communicator-grammar-dejargoning-articulation) 💲
