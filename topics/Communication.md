@@ -18,6 +18,7 @@ Takeaway: Best managers are great teachers, ask questions to help people reach t
 Takeaway: Make it about the other person. Take notes. Use active listening techniques.
 
 - [Derek Parham - Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/)
+Takeaway: Have a Technical design review document. Let juniors write it, then have the seniors edit it. Get people outside of engineers to read it - security, ops, product etc. Include the tradeoffs made to build the system. Create a separate document for the questions about the design. In the meeting - no talking unless you've read the document. No email and no typing, apart from the note taker. Participation in the questions document can indicate who is ready to move from Junior to Senior. Moderator to batch questions according to context. Question author reads out question - its all about a discussion rather than a presentation. Toughest criticisms may be the biggest reprieves - be grateful.
 
 ## Training Courses and Videos
 
