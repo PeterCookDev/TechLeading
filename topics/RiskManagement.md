@@ -22,10 +22,14 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 - [Atul Gawande - The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149) 💲
 Takeaway: The use of checklists dramatically raises effectiveness and reduces errors. Checklists establish a higher standard of baseline performance. In the end, a checklist is only an aid. If it doesn’t aid, it’s not right. Concise, clear and collaborative. They are living processes and change over time.
 
--[Tom DeMarco & Timothy Lister - Waltzing with Bears: Managing Risk on Software Projects](https://www.amazon.co.uk/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 💲
+- [Tom DeMarco & Timothy Lister - Waltzing with Bears: Managing Risk on Software Projects](https://www.amazon.co.uk/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 💲
 Takeaway: Without risk management, projects can not work out what is realisticly deliverable. Projects suffer from selective myopia about catastrophic risks. Projects often get estimated to deliver on the first day there is a non-zero chance of being finished - rather than the most likely date of delivery. Delivery dates are a window of uncertainty, the length of which is due to process noise. Use historical projects in the organisation to work out how much process noise occurs. 
 
 ## Twitter Feeds to Follow
+
+## Tools
+- [Troy Magennis - FocusedObjective.Resources](https://github.com/FocusedObjective/FocusedObjective.Resources)
+Some great tools here for forecasting project delivery taking into account risk; understanding how many latent defects your application may contain; and capability mapping for your teams. Also some great presentations and workshops on many agile and project delivery related topics. Standout [Forecasting using Data Workshop Manual](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Presentations/Forecasting%20using%20Data%20Workshop%20Manual%20v3.pdf)
 
 
 💲 - *paid for content*
