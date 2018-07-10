@@ -1,5 +1,9 @@
 # Tech Leading - Communication
 
+## Link Collections
+
+- [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)
+
 ## Articles
 
 - [Jason Toff - Telling a good story is everything](https://medium.com/life-tips/telling-a-good-story-is-everything-5c66abbb23d9#.d1y57kslh)
@@ -31,6 +35,9 @@ Takeaway: When communicating with non-technical experts remember they are expert
 
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 
+- [Brenda Bailey-Hughes - Lynda - Effective Listening](https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.html) 💲
+
+
 ## Books
 
 
@@ -38,6 +45,8 @@ Takeaway: When communicating with non-technical experts remember they are expert
 
 
 # Presentation Skills
+
+## Link Collections
 
 - [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
 
