@@ -1,5 +1,8 @@
 # Tech Leading - Coaching and Mentoring
 
+## Link Collections
+
+- [Coaching Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/coaching-skills-ultimate-guide/)
 
 ## Articles
 
@@ -16,6 +19,10 @@ Takeaway: Giving advice can be problematic when you don't have enough context. C
 
 - [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 Takeaway: Make sure people have the time to mentor. Set clear expectations. Don't give feedback when people are in crisis. Understand how people take feedback.
+
+- [Mike Figliuolo - Lynda - Setting Team and Employee Goals](https://www.lynda.com/Business-Skills-tutorials/How-Set-Team-Employee-Goals/456353-2.html) 💲
+
+- [Lisa Gates - Lynda - Coaching and Developing Employees](https://www.lynda.com/Business-Skills-tutorials/Coaching-Developing-Employees/115863-2.html)  💲
 
 ## Books
 - [Michael Bungary Stanier - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.co.uk/gp/aw/d/B01BUIBBZI?qid=1464648063&sr=8-1-fkmr0) 💲
