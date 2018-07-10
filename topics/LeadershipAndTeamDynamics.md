@@ -1,6 +1,10 @@
 # Tech Leading - Leadership and Team Dynamics
 
+## Link Collections
+
 - [Awesome - Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
+
+- [Leadership Ultimate Guide](https://www.makingbusinessmatter.co.uk/blog/leadership-skills-ultimate-guide/)
 
 ## Articles
 
@@ -29,6 +33,10 @@ Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people n
 - [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
 
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
+
+- [Chris Croft - Lynda - Teamwork Foundations](https://www.lynda.com/Business-Skills-tutorials/Teamwork-Fundamentals/365728-2.html) 💲
+
+- [Amy Edmondson - Lynda - Leading and Working in Teams](https://www.lynda.com/Business-Skills-tutorials/Leading-Working-Teams/175129-2.html)  💲
 
 ## Books
 
