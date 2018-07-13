@@ -1,10 +1,17 @@
 # Tech Leading - Prioritization
 
+## Link Collections
+
+- [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
+
 ## Articles
 
 
 ## Training Courses and Videos
 
+- [Mike Figliuolo - Lynda - Decision Making Strategies](https://www.lynda.com/Business-Skills-tutorials/Decision-Making-Fundamentals/186697-2.html) 💲
+
+- [Drew Boyd - Lynda - Improving Your Judgment](https://www.lynda.com/Business-Skills-tutorials/Improving-Your-Judgment/162446-2.html) 💲
 
 ## Books
 
