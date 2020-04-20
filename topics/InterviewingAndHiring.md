@@ -19,13 +19,6 @@ Takeaway: Don't lie to candidates. Find out what they don't like and be honest i
 - [Cate Huston - Applied humaning for technical interviews](https://www.youtube.com/watch?v=yeV62jgu1l0) [32:20]
 Takeaway: In a power based situation, the quality of the relationship is owned by the person with the power. Much of what we do as developers is not coding - we should test for those things in the interview. Remove conclusions in feedback you can't support with evidence. Remember interviewing is stressful and people are doing their best. Interviewer needs to be good at time management.
 
-### Books
-
-
-### Twitter Feeds to Follow
-
-
-
 ## Onboarding
 
 ### Articles
@@ -41,11 +34,5 @@ Takeaway: Good series of strategies for onboarding new team members.  Maintainin
 ### Training Courses and Videos
 
 - [Kate Heddleston - Technical Onboarding, Training, and Mentoring](https://www.youtube.com/watch?v=Lpg4jRSH7EE) [30:12]
-
-### Books
-
-
-### Twitter Feeds to Follow
-
 
 💲 - *paid for content*

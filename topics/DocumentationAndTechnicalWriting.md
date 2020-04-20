@@ -1,8 +1,5 @@
 # Tech Leading - Documentation and Technical Writing
 
-## Articles
-
-
 ## Training Courses and Videos
 
 - [Birgitta Boeckeler - We're Agile, We Don't Do Documentation](https://www.youtube.com/watch?v=UvI3zlv5oUA) [26:03]
@@ -13,11 +10,5 @@ Takeaway: A lot of documentation is written at the level of the writer not the i
 
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
-
-## Books
-
-
-## Twitter Feeds to Follow
-
 
 💲 - *paid for content*

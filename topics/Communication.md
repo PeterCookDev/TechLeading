@@ -38,12 +38,6 @@ Takeaway: When communicating with non-technical experts remember they are expert
 - [Brenda Bailey-Hughes - Lynda - Effective Listening](https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.html) 💲
 
 
-## Books
-
-
-## Twitter Feeds to Follow
-
-
 # Presentation Skills
 
 ## Link Collections

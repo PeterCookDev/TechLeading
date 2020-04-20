@@ -28,6 +28,4 @@ Takeaway: Make sure people have the time to mentor. Set clear expectations. Don'
 - [Michael Bungary Stanier - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.co.uk/gp/aw/d/B01BUIBBZI?qid=1464648063&sr=8-1-fkmr0) 💲
 
 
-## Twitter Feeds to Follow
-
 💲 - *paid for content*

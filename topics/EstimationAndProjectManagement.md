@@ -1,8 +1,5 @@
 # Tech Leading - Estimation and Project Management
 
-## Articles
-
-
 ## Training Courses and Videos
 
 - [Stephen Forte - Pluralsight - Agile Estimation](https://app.pluralsight.com/library/courses/agile-estimation/table-of-contents) 💲
@@ -15,8 +12,5 @@ Takeaway: Adding manpower to a late software project will only make it later due
 
 - [Tom DeMarco - Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) 💲
 Takeaway: More slack in a project allows more responsiveness. 100% people usage assumes fungible resources. Task switching is expensive - some tasks require more immersion than others. Lister's law - pressure doesn't make people think faster. Favour effective over efficient.
-
-## Twitter Feeds to Follow
-
 
 💲 - *paid for content*

@@ -22,10 +22,4 @@ Takeaway: Rarely one right answer to the problem. Don't be defensive. Make your 
 Takeaway: Break into smaller groups. Use 5 whys. Use Ishikawa/Fishbone diagrams for breadth first discussions. Use de Bono's thinking hats. Presence of leaders can influence decision making as people don't want to disagree with their leaders.  
 
 
-## Books
-
-
-## Twitter Feeds to Follow
-
-
 💲 - *paid for content*
