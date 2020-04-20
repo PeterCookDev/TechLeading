@@ -19,13 +19,14 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 
 ## Books
 
+- [Neal Ford, Rebecca Parsons and Patrick Kua - Building Evolutionary Architectures - Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360) 💲
+Takeaway: Prioritise the dimensions of your system that matter most. Protect those dimensions from change where possible using fitness functions. Different architectures have different size (quanta) of change. One size architecture does not exist - transaction boundaries may significantly influence your architecture.
+
 - [Atul Gawande - The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149) 💲
 Takeaway: The use of checklists dramatically raises effectiveness and reduces errors. Checklists establish a higher standard of baseline performance. In the end, a checklist is only an aid. If it doesn’t aid, it’s not right. Concise, clear and collaborative. They are living processes and change over time.
 
 - [Tom DeMarco & Timothy Lister - Waltzing with Bears: Managing Risk on Software Projects](https://www.amazon.co.uk/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 💲
 Takeaway: Without risk management, projects can not work out what is realisticly deliverable. Projects suffer from selective myopia about catastrophic risks. Projects often get estimated to deliver on the first day there is a non-zero chance of being finished - rather than the most likely date of delivery. Delivery dates are a window of uncertainty, the length of which is due to process noise. Use historical projects in the organisation to work out how much process noise occurs. 
-
-## Twitter Feeds to Follow
 
 ## Tools
 - [Troy Magennis - FocusedObjective.Resources](https://github.com/FocusedObjective/FocusedObjective.Resources)
