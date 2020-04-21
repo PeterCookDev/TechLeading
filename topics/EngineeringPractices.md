@@ -12,6 +12,10 @@ Takeaway:
 
 ## Code Review
 
+### Articles
+- [Humanising Reviews](https://www.processimpact.com/articles/humanizing_reviews.pdf)
+Takeaway: Use questions to elicit feedback rather than statements. Explanation of some reasons people fight against having their code reviewed as well as reviewing other's code. Explanation of how the culture of your organisation will effect the uptake of code review. Code review is not to criminalise the person who wrote the code, that is counterproductive.
+
 ## Continuous Integration, Delivery and Deployment
 
 ### Articles
