@@ -30,6 +30,7 @@ Takeaway: Each person who is not fully onboarded, integrated or managed leads to
 Takeaway: Good series of strategies for onboarding new team members.  Maintaining a list of technical debt that is shared with new team members.  Catalogues of patterns in use.  Preparation email of tech stack, tools, patterns etc.
 
 - [Jeff Dwyer - Onboarding Engineers: How to Tackle the First 30 Days](http://product.hubspot.com/blog/onboarding-engineers-how-to-tackle-the-first-30-days)
+Takeaway: Think hard about task selection. Small wins early on. Pair them up with a coding mentor. Set the tone in PRs about how you review code. Spend time pairing with them. 
 
 ### Training Courses and Videos
 
