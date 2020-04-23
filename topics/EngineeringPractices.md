@@ -4,6 +4,9 @@
 
 ## Fitness Functions
 
+### Books
+- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG)
+
 ## Test Driven Development
 
 ### Books
@@ -28,6 +31,9 @@ Takeaway: Use questions to elicit feedback rather than statements. Explanation o
 
 ## Trunk Based Development
 
+### Books
+- [Paul Hammant, Steve Smith - Trunk Based Development](https://trunkbaseddevelopment.com/)
+Takeaway: Great introduction to trunk based development. Github repo [here](https://github.com/paul-hammant/tbd)
 
 <!--
 ### Articles
