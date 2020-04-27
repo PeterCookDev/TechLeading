@@ -3,6 +3,7 @@
 ## Articles
 
 - [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)
+Takeaway: You must earn your teams trust. Don't let your team of direct reports get too big. Make people a priority. Prioritise spending time in 121s with your people. Avoid rescheduling or being late wherever possible. Help people address their problems with each other directly - mediate if needs be. Your success is the success of others.
 
 - [HackerNews - How to be a Good Technical Lead](https://news.ycombinator.com/item?id=10395046)
 
