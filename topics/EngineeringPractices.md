@@ -5,7 +5,12 @@
 ### Books
 - [Andrew Hunt - The Pragmatic Programmer](https://www.amazon.com/dp/020161622X)
 
-## Clean Code
+## Writing Healthy Code
+
+### Books
+- [Steve McConnell - Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)
+- [Joshua Kerievsky - Refactoring to Patterns](https://www.amazon.com/gp/product/B001TKD4RQ)
 
 ## Fitness Functions
 
