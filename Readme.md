@@ -22,6 +22,7 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Teaching](topics/Teaching.md)
 
 ### Technical and Process Skills
+- [Architecture](topics/Architecture.md)
 - [Bridging the Gap between Tech and the Business](topics/BridgingTheGap.md)
 - [Documentation and Technical Writing](topics/DocumentationAndTechnicalWriting.md)
 - [Risk Management](topics/RiskManagement.md)
