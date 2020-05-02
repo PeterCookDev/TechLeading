@@ -3,25 +3,26 @@
 ## General
 
 ### Books
-- [Andrew Hunt - The Pragmatic Programmer](https://www.amazon.com/dp/020161622X)
+- [Andrew Hunt - The Pragmatic Programmer](https://www.amazon.com/dp/020161622X) 💲
 
 ## Writing Healthy Code
 
 ### Books
-- [Steve McConnell - Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
-- [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2)
-- [Joshua Kerievsky - Refactoring to Patterns](https://www.amazon.com/gp/product/B001TKD4RQ)
+- [Steve McConnell - Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) 💲
+- [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2) 💲
+- [Joshua Kerievsky - Refactoring to Patterns](https://www.amazon.com/gp/product/B001TKD4RQ) 💲
+- [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) 💲
 
 ## Fitness Functions
 
 ### Books
-- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG)
+- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) 💲
 
 ## Test Driven Development
 
 ### Books
-- [Gerard Meszaros - XUnit Test Patterns:Refactoring Test Code](http://xunitpatterns.com/)
-Takeaway:
+- [Gerard Meszaros - XUnit Test Patterns:Refactoring Test Code](http://xunitpatterns.com/) 💲
+
 
 ### Training Courses and Videos
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
