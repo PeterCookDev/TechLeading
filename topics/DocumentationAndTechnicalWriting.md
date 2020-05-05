@@ -11,6 +11,9 @@ Takeaway: A lot of documentation is written at the level of the writer not the i
 - [Michael Hartl - Learn Enough Tutorial Writing to Be Dangerous](https://www.youtube.com/watch?v=TpmoxsYeap0) [34:57] 
 Takeaway: Process of successive refinement for writing tutorials. Use concrete examples. Asking yourself - What does the reader know at this point in the tutorial?
 
+- [Beth Aitman - Writing effective documentation]() [9:50]
+Takeaway: Start with what the reader needs. Write less. Write an outline. Write so your reader can read it. [Editing guidelines](https://bethaitman.com/posts/editing/) 
+
 ## Articles
 
 - [Josef Blake - When should I write an Architecture Decision Record?](https://labs.spotify.com/2020/04/14/when-should-i-write-an-architecture-decision-record/)
