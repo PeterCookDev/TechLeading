@@ -13,4 +13,9 @@ Takeaway: Adding manpower to a late software project will only make it later due
 - [Tom DeMarco - Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) 💲
 Takeaway: More slack in a project allows more responsiveness. 100% people usage assumes fungible resources. Task switching is expensive - some tasks require more immersion than others. Lister's law - pressure doesn't make people think faster. Favour effective over efficient.
 
+## Articles
+
+- [Coda Hale - Work is Work - In which returns diminish](https://codahale.com/work-is-work/) 
+Takeaway: An essential read on organisational design. Pursue force multipliers to achieve superlinear productivity. Force multipliers are thing like internal tooling and training that increase productivity. Communication time grows quadratically as work capacity grows linearly (adding more people adds more communication). Ensure work is done in parallel, within small groups of colocated people. Asking for status updates, meetings etc creates drag. Groups should publish status updates as part of their work.
+
 💲 - *paid for content*
