@@ -23,10 +23,12 @@
 ### Books
 - [Gerard Meszaros - XUnit Test Patterns:Refactoring Test Code](http://xunitpatterns.com/) 💲
 
-
 ### Training Courses and Videos
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
 Takeaway: A test case per class fails to capture the ethos of tdd. The trigger for a new class is implementing a new requirement. Only test the surface of a module. Unit tests run in isolation from other tests, not other modules. Databases, file systems stop tests being isolated from each other. Tests should not depend on implementation details. Don't mock out your internals. Mock the port to the adapter not the adapter itself.
+
+- [Sebastian Daschner - Make writing tests more joyful](https://www.youtube.com/watch?v=aafJPx1slig) [1:01:58]
+Takeaway: Test code quality matters. Write reusable test components to decouple implementation and behaviour under test. Writing BDD/Gherkin tests forces that separation. Care about fast feedback cycles. Separate running docker containers for testing from the tests themselves. Write reusable, idempotent test scenarios. Don't let easy to write tests using things like automocking slow down your tests.
 
 ## Code Review
 
@@ -49,6 +51,10 @@ Takeaway: Use questions to elicit feedback rather than statements. Explanation o
 ### Books
 - [Paul Hammant, Steve Smith - Trunk Based Development](https://trunkbaseddevelopment.com/)
 Takeaway: Great introduction to trunk based development. Github repo [here](https://github.com/paul-hammant/tbd)
+
+### Articles
+- [Mattia Battiston - Why I love Trunk Based Development (or pushing straight to master)](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
+
 
 <!--
 ### Articles
