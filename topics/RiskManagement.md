@@ -12,6 +12,9 @@ Takeway: List of questions to ask and things to think about when you take over a
 
 ## Training Courses and Videos
 
+- [Dr Jonathan Graham - Managing business risks together ](https://www.youtube.com/watch?v=cgztDFeQyvM) [11:23] 
+Takeaway: Explains how to use Cynefin framework in relation to identifying risks. Provides some techniques for communicating (Cause, Event, Consequence) and Prioritising (Likelihood, Impact, Detection) for risks.
+
 - [Casey Ayers - Pluralsight - Managing Project Communications and Risks](https://app.pluralsight.com/library/courses/project-communications-risks-managing) 💲
 
 - [Jim Holmes - "OMG! This Codebase Sucks!" Paying Down Tech Debt While Delivering Value](https://www.youtube.com/watch?v=InCmGFSA3JM) [1:00:21]
