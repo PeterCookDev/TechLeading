@@ -18,4 +18,6 @@ Takeaway: More slack in a project allows more responsiveness. 100% people usage 
 - [Coda Hale - Work is Work - In which returns diminish](https://codahale.com/work-is-work/) 
 Takeaway: An essential read on organisational design. Pursue force multipliers to achieve superlinear productivity. Force multipliers are thing like internal tooling and training that increase productivity. Communication time grows quadratically as work capacity grows linearly (adding more people adds more communication). Ensure work is done in parallel, within small groups of colocated people. Asking for status updates, meetings etc creates drag. Groups should publish status updates as part of their work.
 
+- [Joel Spolsky - Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
+
 💲 - *paid for content*
