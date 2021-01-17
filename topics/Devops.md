@@ -11,7 +11,17 @@
 
 ### Books
 - [Edited By Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne - The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+
 - [Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy - Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/sre-book/toc/)
+
+## Observability
+
+### Training Courses and Videos
+
+- [Christine Yen - Observability for Devs: How to Get From Here to There](https://www.youtube.com/watch?v=FvVzYopbgog) [20:18]
+
+### Twitter Feeds to Follow
+- [Charity Majors - @mipsytipsy](https://twitter.com/mipsytipsy)
 
 ## Incident Management
 

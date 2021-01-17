@@ -18,10 +18,13 @@
 ### Books
 - [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) 💲
 
-## Test Driven Development
+## Test Driven Development and Unit Testing
 
 ### Books
 - [Gerard Meszaros - XUnit Test Patterns:Refactoring Test Code](http://xunitpatterns.com/) 💲
+  
+- [Art of Unit Testing: with Examples in C#](http://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890) 💲 
+
 
 ### Training Courses and Videos
 - [Ian Cooper - TDD, where did it all go wrong](https://vimeo.com/68375232)  [1:00:37]
@@ -29,6 +32,8 @@ Takeaway: A test case per class fails to capture the ethos of tdd. The trigger f
 
 - [Sebastian Daschner - Make writing tests more joyful](https://www.youtube.com/watch?v=aafJPx1slig) [1:01:58]
 Takeaway: Test code quality matters. Write reusable test components to decouple implementation and behaviour under test. Writing BDD/Gherkin tests forces that separation. Care about fast feedback cycles. Separate running docker containers for testing from the tests themselves. Write reusable, idempotent test scenarios. Don't let easy to write tests using things like automocking slow down your tests.
+
+- [Venkat Subramaniam: Succeeding with TDD: Pragmatic Techniques for effective mocking](http://vimeo.com/68383352) [1:02:09]
 
 ## Code Review
 

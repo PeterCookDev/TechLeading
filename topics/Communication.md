@@ -36,6 +36,7 @@ Takeaway: When communicating with non-technical experts remember they are expert
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 
 - [Brenda Bailey-Hughes - Lynda - Effective Listening](https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.html) 💲
+
 - [Julian Treasure - 5 ways to listen better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better) [7:44]
 Takeaway: Premium on accurate listening has disappeared due to recording. 5 Exercises for conscious listening. RASA - receive, appreciate, summarise, ask.
 
