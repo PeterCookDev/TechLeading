@@ -9,4 +9,6 @@
 - [Joe Kutner - 5 Years of 12 Factor Apps](https://www.youtube.com/watch?v=jufe_sHejXc) [14:25]
 Takeaway: Good introduction to 12 Factor Apps. See also [The Twelve Factor App](http://12factor.net)
 
+- [Udi Dahan - Advanced Distributed Systems Design - Online Course](https://learn.particular.net/courses/adsd-online) 💲
+
 💲 - *paid for content*

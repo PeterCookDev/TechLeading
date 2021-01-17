@@ -21,16 +21,18 @@ Different companies have differing definitions of what the tech lead role looks 
 - [Facilitation](topics/Facilitation.md)
 - [Teaching](topics/Teaching.md)
 
-### Technical and Process Skills
+### Technical and Process Skills and Knowledge
 - [Architecture](topics/Architecture.md)
 - [Bridging the Gap between Tech and the Business](topics/BridgingTheGap.md)
+- [Devops](topics/Devops.md)
 - [Documentation and Technical Writing](topics/DocumentationAndTechnicalWriting.md)
+- [Engineering Practices](topics/EngineeringPractices.md)
+- [Estimation and Project Management](topics/EstimationAndProjectManagement.md)
+- [Prioritization](topics/Prioritization.md)
 - [Risk Management](topics/RiskManagement.md)
+- [Security](topics/Security.md)
 - [Technical Vision](topics/TechnicalVision.md)
 - [Visualising Architecture](topics/VisualisingArchitecture.md)
-- [Prioritization](topics/Prioritization.md)
-- [Estimation and Project Management](topics/EstimationAndProjectManagement.md)
-- [Engineering Practices](topics/EngineeringPractices.md)
 
 ### License
 

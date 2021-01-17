@@ -16,6 +16,8 @@ Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people n
 
 - [Deep Dive Study Guide: The Five Dysfunctions of a Team (Summary, Notes, and Tons of Additional Resources)](https://usmanconsulting.com/deep-dive-study-guide-the-five-dysfunctions-of-a-team-summary-notes-and-tons-of-additional-resources/)
 
+- [Will Larson - Learn to never be wrong](https://lethain.com/learn-to-never-be-wrong/)
+
 ## Training Courses and Videos
 
 - [Kylie Hunt - Pluralsight - Boost Productivity Through Employee Happiness](https://app.pluralsight.com/library/courses/boost-productivity-employee-happiness) 💲

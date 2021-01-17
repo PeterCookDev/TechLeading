@@ -9,6 +9,9 @@
 - [Growing developers: Ask for solutions instead of giving them](http://5whys.com/blog/growing-developers-ask-for-solutions-instead-of-giving-them.html)
 Takeaway: Don't give people solutions - ask them to find the solution on their own. Ask them for 3 possible approaches they could take then discuss the solutions. Get the team to come up with guidelines. The team hone their skills and gain shared knowledge. You stop being a bottleneck. Give them a timebox and help them understand constraints like time to implement.
 
+- [Napthali Hoff - Decide what (and when) to delegate](https://www.smartbrief.com/original/2018/09/decide-what-and-when-delegate)
+
+
 ## Training Courses and Videos
 
 - [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
