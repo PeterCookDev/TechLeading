@@ -1,5 +1,9 @@
 # Tech Leading - General Overview
 
+*If you read one thing - read this*
+- [Will Larson - StaffEng](https://staffeng.com/)
+Takeaway: A whole site dedicated to what it is to be in a Staff Engineer+ role. Guides, resources, interviews - an absolute must read. You can also purchase the [💲 book](https://staffeng.com/book) from Amazon or Gumroad.
+
 ## Articles
 
 - [David Haney - Developer Turned Manager](http://www.haneycodes.net/developer-turned-manager/)

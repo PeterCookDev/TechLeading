@@ -1,4 +1,4 @@
-# Tech Leading - Prioritization
+# Tech Leading - Prioritization and Decision Making
 
 ## Link Collections
 
