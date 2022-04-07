@@ -20,6 +20,8 @@ Takeaway: List of behaviours to perform and others to avoid to be a successful t
 - [David Byttow - Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771#.gie0limbr)
 Takeaway: Work on knowledge, speed and awareness. Block and unblocking. List of activities many tech leads do.
 
+- [Silvia Botros - On Being A Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html)
+
 ## Training Courses and Videos
 
 - [Patrick Kua - Why Technical Leadership Matters](https://www.youtube.com/watch?v=_6BKK1SPAVI) [42:05]
@@ -61,7 +63,6 @@ Takeaway: Focus your effort where the impact produced, divided by time invested,
 
 - [Software Lead Weekly](http://softwareleadweekly.com/)
 
-## Conferences
-
-- [The Lead Developer - London](http://www.theleaddeveloper.com/)
-- [The Lead Developer - NY](http://theleaddeveloper-ny.com/)
+## Communities
+- [Lead Dev](https://leaddev.com/)
+Takeaway: A community for engineering leaders. Lots of great webinars, articles and videos about engineering leadership topics here! Also runs conferences (San Francisco, London, New York and Berlin)
