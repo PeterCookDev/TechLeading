@@ -36,4 +36,13 @@ Takeaway: Without risk management, projects can not work out what is realisticly
 Some great tools here for forecasting project delivery taking into account risk; understanding how many latent defects your application may contain; and capability mapping for your teams. Also some great presentations and workshops on many agile and project delivery related topics. Standout [Forecasting using Data Workshop Manual](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Presentations/Forecasting%20using%20Data%20Workshop%20Manual%20v3.pdf)
 
 
+## Migrations
+Something that comes up over and over again - how do you successfully migrate from one system to another.
+
+### Articles
+- [Gergely Orosz - Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)
+- [Gergely Orosz - Migrations Done Well: Executing Migrations](https://blog.pragmaticengineer.com/migrations-done-well-executing-them/)
+- [Will Larson - Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)
+
+
 💲 - *paid for content*
