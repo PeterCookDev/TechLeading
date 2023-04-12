@@ -11,7 +11,7 @@
 - [Steve McConnell - Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) 💲
 - [Martin Fowler - Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2) 💲
 - [Joshua Kerievsky - Refactoring to Patterns](https://www.amazon.com/gp/product/B001TKD4RQ) 💲
-- [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) 💲
+
 
 ## Fitness Functions
 
@@ -60,7 +60,14 @@ Takeaway: Great introduction to trunk based development. Github repo [here](http
 ### Articles
 - [Mattia Battiston - Why I love Trunk Based Development (or pushing straight to master)](https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0)
 
+## Legacy Code Uplift
 
+### Books
+- [Michael Feathers - Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)💲
+- [Marianne Bellotti - Kill It with Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)](https://www.amazon.com/Kill-Fire-Manage-Computer-Systems/dp/1718501188)💲
+
+### Articles
+- [Ian Cartwright, Rob Horn and James Lewis - Patterns of Legacy Displacement - Effective modernization of legacy software systems](https://martinfowler.com/articles/patterns-legacy-displacement/)
 <!--
 ### Articles
 
