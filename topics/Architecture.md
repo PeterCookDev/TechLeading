@@ -3,7 +3,8 @@
 ## Books
 - [Martin Fowler - Patterns of Enterprise Application Architecture ](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420) 💲
 
-- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) 💲
+- [Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage - Building Evolutionary Architectures: Automated Software Governance](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) 💲
+Takeaway: Prioritise the dimensions of your system that matter most. Protect those dimensions from change where possible using fitness functions. Different architectures have different size (quanta) of change. One size architecture does not exist - transaction boundaries may significantly influence your architecture.
 
 ## Training Courses and Videos
 

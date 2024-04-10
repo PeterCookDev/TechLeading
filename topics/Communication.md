@@ -18,7 +18,7 @@ Takeaway: Remind people that you are there to maximize their potential as you al
 - [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/)
 Takeaway: Best managers are great teachers, ask questions to help people reach their own answers. Use different types of questions. Questions that give you perspective. Questions that help you evaluate. Questions that lead to action. Questions that lead to knowledge.
 
-- [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
+- [Kate Matsudaira - Tips and Exercises to be a Better Listener](https://katemats.com/blog/tips-exercises-better-listener)
 Takeaway: Make it about the other person. Take notes. Use active listening techniques.
 
 - [Derek Parham - Making Engineering Team Communication Clearer, Faster, Better](http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/)
@@ -35,7 +35,7 @@ Takeaway: When communicating with non-technical experts remember they are expert
 
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
 
-- [Brenda Bailey-Hughes - Lynda - Effective Listening](https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.html) 💲
+- [Brenda Bailey-Hughes - Lynda - Effective Listening](https://www.linkedin.com/learning/effective-listening/improve-your-listening-skills) 💲
 
 - [Julian Treasure - 5 ways to listen better](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better) [7:44]
 Takeaway: Premium on accurate listening has disappeared due to recording. 5 Exercises for conscious listening. RASA - receive, appreciate, summarise, ask.
@@ -49,6 +49,12 @@ Takeaway: Premium on accurate listening has disappeared due to recording. 5 Exer
 ## Training Courses and Videos
 
 - [Scott Hanselman - Pluralsight - The Art of Speaking](https://app.pluralsight.com/library/courses/hanselman-speaking) 💲
+
+# Information Architecture
+
+## Books
+- [How to make sense of any mess](https://www.howtomakesenseofanymess.com/)
+Takeaway: Introduction to Information Architecture. Free version online or you can buy the book (💲). Really concise read but provides tools on how to think about messes and bring shared clarity.
 
 
 💲 - *paid for content*

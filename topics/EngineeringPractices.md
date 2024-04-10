@@ -16,7 +16,7 @@
 ## Fitness Functions
 
 ### Books
-- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant-ebook/dp/B075RR1XVG) 💲
+- [Neal Ford, Rebecca Parsons, Patrick Kua - Building Evolutionary Architectures: Automated Software Governance](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) 💲
 
 ## Test Driven Development and Unit Testing
 

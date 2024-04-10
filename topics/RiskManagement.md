@@ -5,7 +5,7 @@
 - [Matt Blumberg - The Value of Paying Down Technical Debt](https://www.onlyonceblog.com/2012/11/the-value-of-paying-down-technical-debt)
 Takeaway: Use evidence of the need to pay off, and then show there is a payoff
 
-- [Kate Matsudaira - Assessing Technical Risks for Startups](http://katemats.com/assessing-technical-risks-for-startups-new-tech-leader-series/)
+- [Kate Matsudaira - Assessing Technical Risks for Startups](http://katemats.com/blog/assessing-technical-risks-for-startups-new-tech-leader-series/)
 Takeway: List of questions to ask and things to think about when you take over a new technical role at a CTO/VP level.
 
 - [Dan Abel - How to Manage Delivery and Risk (Be a Well Rounded Technical Lead, part 3)](http://www.engineeringandcareering.co.uk/2014/05/how-to-be-well-rounded-delivery-risk.html)
@@ -22,7 +22,7 @@ Takeaway: 4 part approach to working and evaluating technical debt based around 
 
 ## Books
 
-- [Neal Ford, Rebecca Parsons and Patrick Kua - Building Evolutionary Architectures - Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360) 💲
+- [Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage - Building Evolutionary Architectures: Automated Software Governance](https://www.amazon.com/Building-Evolutionary-Architectures-Automated-Governance/dp/1492097543) 💲
 Takeaway: Prioritise the dimensions of your system that matter most. Protect those dimensions from change where possible using fitness functions. Different architectures have different size (quanta) of change. One size architecture does not exist - transaction boundaries may significantly influence your architecture.
 
 - [Atul Gawande - The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/Checklist-Manifesto-Things-Right-Gawande/dp/1846683149) 💲
@@ -41,7 +41,6 @@ Something that comes up over and over again - how do you successfully migrate fr
 
 ### Articles
 - [Gergely Orosz - Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)
-- [Gergely Orosz - Migrations Done Well: Executing Migrations](https://blog.pragmaticengineer.com/migrations-done-well-executing-them/)
 - [Will Larson - Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)
 
 

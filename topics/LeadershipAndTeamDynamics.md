@@ -8,13 +8,11 @@
 
 ## Articles
 
-- [Chad Fowler - Your most important skill: Empathy](http://chadfowler.com/2014/01/19/empathy.html)
+- [Chad Fowler - Your most important skill: Empathy](https://medium.com/@chadfowler/your-most-important-skill-empathy-a75ffe5e0877)
 Takeaway: Listen to what you are hearing. Watch and wonder about other people. Know your enemies - try to understand people you have disputes with.
 
 - [Dan Abel - How to Engage with your team (be a Well Rounded Technical Lead, part 1)](http://www.engineeringandcareering.co.uk/2013/10/how-to-be-well-rounded-technical-lead_20.html)
 Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people need to feel safe and trust each other. Faciliate the technical discussions. Teams need a clear goal and direction to move forward as a group. Ensure the team doesn't silo - rotate people around jobs, collaborate heavily. Demonstrate how you want the team to behave - but also allow experienced teams to set their own contract.
-
-- [Deep Dive Study Guide: The Five Dysfunctions of a Team (Summary, Notes, and Tons of Additional Resources)](https://usmanconsulting.com/deep-dive-study-guide-the-five-dysfunctions-of-a-team-summary-notes-and-tons-of-additional-resources/)
 
 - [Will Larson - Learn to never be wrong](https://lethain.com/learn-to-never-be-wrong/)
 
@@ -38,9 +36,9 @@ Takeaway: Your job is to adjust to what the team needs. Ensure Safety - people n
 
 - [Camille Fournier - Cloning Yourself Isn’t an Option](https://vimeo.com/139907569)  [34:41]
 
-- [Chris Croft - Lynda - Teamwork Foundations](https://www.lynda.com/Business-Skills-tutorials/Teamwork-Fundamentals/365728-2.html) 💲
+- [Chris Croft - Lynda - Teamwork Foundations](https://www.linkedin.com/learning/teamwork-foundations-2020) 💲
 
-- [Amy Edmondson - Lynda - Leading and Working in Teams](https://www.lynda.com/Business-Skills-tutorials/Leading-Working-Teams/175129-2.html)  💲
+- [Amy Edmondson - Lynda - Leading and Working in Teams](https://www.linkedin.com/learning/leading-and-working-in-teams)  💲
 
 ## Books
 
